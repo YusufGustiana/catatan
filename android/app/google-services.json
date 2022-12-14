@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73876933083",
+    "project_id": "catatb-aps",
+    "storage_bucket": "catatb-aps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73876933083:android:54c90f12e426e5d94bbffe",
+        "android_client_info": {
+          "package_name": "com.example.catatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73876933083-r7qrid4e5gh2q4623169tth8vk8v6j8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbHe01G48GT7phcMgF-jEewnvkmwA_WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73876933083-r7qrid4e5gh2q4623169tth8vk8v6j8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
